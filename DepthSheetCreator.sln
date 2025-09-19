@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthSheetCreator", "DepthSheetCreator\DepthSheetCreator.csproj", "{8D454463-8338-48D8-8293-182E62846BD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DepthSheetCreator.Tests", "DepthSheetCreator.Tests\DepthSheetCreator.Tests.csproj", "{FD9EF36A-AD55-4260-A9EC-0217215C867A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D454463-8338-48D8-8293-182E62846BD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D454463-8338-48D8-8293-182E62846BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D454463-8338-48D8-8293-182E62846BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D454463-8338-48D8-8293-182E62846BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD9EF36A-AD55-4260-A9EC-0217215C867A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD9EF36A-AD55-4260-A9EC-0217215C867A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD9EF36A-AD55-4260-A9EC-0217215C867A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD9EF36A-AD55-4260-A9EC-0217215C867A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
